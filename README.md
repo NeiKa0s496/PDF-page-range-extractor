@@ -11,14 +11,14 @@ I was facing the problem of wanting to print some book chapters from a 900+ page
 
 ## Use
 - Clone the repo
-```
+```bash
 git clone https://github.com/NeiKa0s496/PDF-page-range-extractor.git
 ```
 - Create the venv
 ```bash
 python3 -m venv venv
 ```
-- Activatethe venv
+- Activate the venv
 ```bash
  source venv/bin/activate
 ```
